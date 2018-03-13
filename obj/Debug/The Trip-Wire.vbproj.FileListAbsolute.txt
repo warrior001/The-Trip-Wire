@@ -1,0 +1,200 @@
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The_Trip_Wire.Form1.resources
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+C:\Users\Alon\AppData\Local\Temporary Projects\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+C:\Users\Alon\Desktop\The Trip-Wrie\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+C:\Users\Alon\Desktop\The Trip-Wrie\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+C:\Users\Alon\Desktop\The Trip-Wrie\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+F:\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+F:\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+F:\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+F:\The Trip-Wire - עותק\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire - עותק\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire - עותק\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire - עותק\bin\Debug\The Trip-Wire.exe
+F:\The Trip-Wire - עותק\bin\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire - עותק\bin\Debug\The Trip-Wire.xml
+F:\The Trip-Wire - עותק\obj\Debug\ResolveAssemblyReference.cache
+F:\The Trip-Wire - עותק\obj\Debug\The_Trip_Wire.Form1.resources
+F:\The Trip-Wire - עותק\obj\Debug\The_Trip_Wire.Form2.resources
+F:\The Trip-Wire - עותק\obj\Debug\The_Trip_Wire.Resources.resources
+F:\The Trip-Wire - עותק\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\The Trip-Wire\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The_Trip_Wire.Form1.resources
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+C:\Users\nir 1\Desktop\visual basic\עבודות מהדיסק או קי\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+E:\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+E:\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+E:\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+E:\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+E:\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+E:\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+E:\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+E:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form1.resources
+E:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+E:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+E:\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+E:\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The_Trip_Wire.Form1.resources
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+C:\Users\Alon\Desktop\The Trip-Wrie\pictures for game-alon &nir\New folder (2)\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+I:\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+I:\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+I:\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+I:\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+I:\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+I:\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+I:\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+I:\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+I:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+F:\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+F:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+F:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+F:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+F:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+F:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+F:\Visual Basic\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+I:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+I:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+I:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+I:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+I:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+I:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+I:\Visual Basic\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+I:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form6.resources
+F:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+E:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+E:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+E:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+E:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+E:\Visual Basic\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+E:\Visual Basic\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form6.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+E:\Visual Basic\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+I:\Visual Basic\The Trip-Wire\obj\Debug\The_Trip_Wire.Form6.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The Trip-Wire.exe
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The Trip-Wire.xml
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The Trip-Wire.pdb
+C:\Users\nir 1\Desktop\The Trip-Wire\bin\Debug\The Trip-Wire.exe
+C:\Users\nir 1\Desktop\The Trip-Wire\bin\Debug\The Trip-Wire.pdb
+C:\Users\nir 1\Desktop\The Trip-Wire\bin\Debug\The Trip-Wire.xml
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.From1.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Form2.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Form3.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Form4.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Form5.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Form6.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The_Trip_Wire.Resources.resources
+C:\Users\nir 1\Desktop\The Trip-Wire\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+E:\The Trip-Wire-new\obj\Debug\The Trip-Wire.exe
+E:\The Trip-Wire-new\obj\Debug\The Trip-Wire.xml
+E:\The Trip-Wire-new\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire-new\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire-new\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire-new\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire-new\obj\Debug\ResolveAssemblyReference.cache
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.From1.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form2.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form3.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form4.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form5.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form6.resources
+F:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Resources.resources
+F:\The Trip-Wire-new\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\The Trip-Wire-new\bin\Debug\The Trip-Wire.exe
+F:\The Trip-Wire-new\bin\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire-new\bin\Debug\The Trip-Wire.xml
+E:\The Trip-Wire-new\bin\Debug\The Trip-Wire.exe
+E:\The Trip-Wire-new\bin\Debug\The Trip-Wire.pdb
+E:\The Trip-Wire-new\bin\Debug\The Trip-Wire.xml
+E:\The Trip-Wire-new\obj\Debug\ResolveAssemblyReference.cache
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.From1.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form2.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form3.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form4.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form5.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Form6.resources
+E:\The Trip-Wire-new\obj\Debug\The_Trip_Wire.Resources.resources
+E:\The Trip-Wire-new\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\The Trip-Wire-new - Copy\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire-new - Copy\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire-new - Copy\obj\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire-new - Copy\bin\Debug\The Trip-Wire.exe
+F:\The Trip-Wire-new - Copy\bin\Debug\The Trip-Wire.pdb
+F:\The Trip-Wire-new - Copy\bin\Debug\The Trip-Wire.xml
+F:\The Trip-Wire-new - Copy\obj\Debug\ResolveAssemblyReference.cache
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.From1.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Form2.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Form3.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Form4.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Form5.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Form6.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The_Trip_Wire.Resources.resources
+F:\The Trip-Wire-new - Copy\obj\Debug\The Trip-Wire.vbproj.GenerateResource.Cache
+F:\The Trip-Wire-new - updated\obj\Debug\The Trip-Wire.exe
+F:\The Trip-Wire-new - updated\obj\Debug\The Trip-Wire.xml
+F:\The Trip-Wire-new - updated\obj\Debug\The Trip-Wire.pdb
